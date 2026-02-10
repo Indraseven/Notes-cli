@@ -1,3 +1,5 @@
+FILE_NAME = "data/catatan.json"
+BACKUP_FILE = "data/notes_backup.json"
 from rich.console import Console
 from rich.table import Table
 from rich import print
