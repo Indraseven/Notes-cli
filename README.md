@@ -26,3 +26,4 @@ Push:
 git add README.md
 git commit -m "upgrade README pro"
 git push
+# auto push test
