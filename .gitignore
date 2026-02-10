@@ -1,2 +1,24 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data sementara
+*.tmp
+*.bak
+
+# Backup
+backup/
+
+# Termux
+.storage/
